@@ -1,0 +1,63 @@
+gt_team,opponent,type,player,player_position,player_run_block_grade,opp_ed_run_defense_grade,opp_ed_name,opp_ed_snaps,delta
+GA TECH,BOSTON COL,vs_defense_avg,Ethan Mackenny,OT,65.9,65.56,,,0.34
+GA TECH,BOSTON COL,vs_ed_rank_1,Ethan Mackenny,OT,65.9,72.7,Quintayvious Hutchins,255.0,-6.8
+GA TECH,BOSTON COL,vs_ed_rank_2,Ethan Mackenny,OT,65.9,70.5,Edwin Kolenge,244.0,-4.6
+GA TECH,BOSTON COL,vs_ed_rank_3,Ethan Mackenny,OT,65.9,57.4,Favor Bate,195.0,8.5
+GA TECH,BOSTON COL,vs_ed_rank_4,Ethan Mackenny,OT,65.9,55.6,E'Lla Boykin,116.0,10.3
+GA TECH,BOSTON COL,vs_ed_rank_5,Ethan Mackenny,OT,65.9,60.0,Israel Oladipupo,51.0,5.9
+GA TECH,BOSTON COL,vs_defense_avg,Malachi Carney,OT,68.9,65.56,,,3.34
+GA TECH,BOSTON COL,vs_ed_rank_1,Malachi Carney,OT,68.9,72.7,Quintayvious Hutchins,255.0,-3.8
+GA TECH,BOSTON COL,vs_ed_rank_2,Malachi Carney,OT,68.9,70.5,Edwin Kolenge,244.0,-1.6
+GA TECH,BOSTON COL,vs_ed_rank_3,Malachi Carney,OT,68.9,57.4,Favor Bate,195.0,11.5
+GA TECH,BOSTON COL,vs_ed_rank_4,Malachi Carney,OT,68.9,55.6,E'Lla Boykin,116.0,13.3
+GA TECH,BOSTON COL,vs_ed_rank_5,Malachi Carney,OT,68.9,60.0,Israel Oladipupo,51.0,8.9
+GA TECH,NC STATE,vs_defense_avg,Ethan Mackenny,OT,65.9,73.94,,,-8.04
+GA TECH,NC STATE,vs_ed_rank_1,Ethan Mackenny,OT,65.9,76.5,Sabastian Harsh,348.0,-10.6
+GA TECH,NC STATE,vs_ed_rank_2,Ethan Mackenny,OT,65.9,77.8,Cian Slone,324.0,-11.9
+GA TECH,NC STATE,vs_ed_rank_3,Ethan Mackenny,OT,65.9,62.0,Tra Thomas,177.0,3.9
+GA TECH,NC STATE,vs_ed_rank_4,Ethan Mackenny,OT,65.9,73.7,Chase Bond,105.0,-7.8
+GA TECH,NC STATE,vs_defense_avg,Malachi Carney,OT,68.9,73.94,,,-5.04
+GA TECH,NC STATE,vs_ed_rank_1,Malachi Carney,OT,68.9,76.5,Sabastian Harsh,348.0,-7.6
+GA TECH,NC STATE,vs_ed_rank_2,Malachi Carney,OT,68.9,77.8,Cian Slone,324.0,-8.9
+GA TECH,NC STATE,vs_ed_rank_3,Malachi Carney,OT,68.9,62.0,Tra Thomas,177.0,6.9
+GA TECH,NC STATE,vs_ed_rank_4,Malachi Carney,OT,68.9,73.7,Chase Bond,105.0,-4.8
+GA TECH,GEORGIA,vs_defense_avg,Ethan Mackenny,OT,65.9,67.84,,,-1.94
+GA TECH,GEORGIA,vs_ed_rank_1,Ethan Mackenny,OT,65.9,65.2,Gabe Harris Jr.,258.0,0.7
+GA TECH,GEORGIA,vs_ed_rank_2,Ethan Mackenny,OT,65.9,76.0,Quintavius Johnson,255.0,-10.1
+GA TECH,GEORGIA,vs_ed_rank_3,Ethan Mackenny,OT,65.9,72.4,Joseph Jonah-Ajonye,161.0,-6.5
+GA TECH,GEORGIA,vs_ed_rank_4,Ethan Mackenny,OT,65.9,45.1,Kris Jones,78.0,20.8
+GA TECH,GEORGIA,vs_ed_rank_5,Ethan Mackenny,OT,65.9,71.3,Elo Modozie,73.0,-5.4
+GA TECH,GEORGIA,vs_ed_rank_6,Ethan Mackenny,OT,65.9,58.6,JJ Hanne,66.0,7.3
+GA TECH,GEORGIA,vs_defense_avg,Malachi Carney,OT,68.9,67.84,,,1.06
+GA TECH,GEORGIA,vs_ed_rank_1,Malachi Carney,OT,68.9,65.2,Gabe Harris Jr.,258.0,3.7
+GA TECH,GEORGIA,vs_ed_rank_2,Malachi Carney,OT,68.9,76.0,Quintavius Johnson,255.0,-7.1
+GA TECH,GEORGIA,vs_ed_rank_3,Malachi Carney,OT,68.9,72.4,Joseph Jonah-Ajonye,161.0,-3.5
+GA TECH,GEORGIA,vs_ed_rank_4,Malachi Carney,OT,68.9,45.1,Kris Jones,78.0,23.8
+GA TECH,GEORGIA,vs_ed_rank_5,Malachi Carney,OT,68.9,71.3,Elo Modozie,73.0,-2.4
+GA TECH,GEORGIA,vs_ed_rank_6,Malachi Carney,OT,68.9,58.6,JJ Hanne,66.0,10.3
+GA TECH,PITTSBURGH,vs_defense_avg,Ethan Mackenny,OT,65.9,67.19,,,-1.29
+GA TECH,PITTSBURGH,vs_ed_rank_1,Ethan Mackenny,OT,65.9,68.8,Jimmy Scott,355.0,-2.9
+GA TECH,PITTSBURGH,vs_ed_rank_2,Ethan Mackenny,OT,65.9,56.2,Isaiah Neal,252.0,9.7
+GA TECH,PITTSBURGH,vs_ed_rank_3,Ethan Mackenny,OT,65.9,80.5,Blaine Spires,153.0,-14.6
+GA TECH,PITTSBURGH,vs_ed_rank_4,Ethan Mackenny,OT,65.9,65.5,Joey Zelinsky,113.0,0.4
+GA TECH,PITTSBURGH,vs_ed_rank_5,Ethan Mackenny,OT,65.9,63.4,Nate Temple,103.0,2.5
+GA TECH,PITTSBURGH,vs_ed_rank_6,Ethan Mackenny,OT,65.9,75.0,Zach Crothers,95.0,-9.1
+GA TECH,PITTSBURGH,vs_defense_avg,Malachi Carney,OT,68.9,67.19,,,1.71
+GA TECH,PITTSBURGH,vs_ed_rank_1,Malachi Carney,OT,68.9,68.8,Jimmy Scott,355.0,0.1
+GA TECH,PITTSBURGH,vs_ed_rank_2,Malachi Carney,OT,68.9,56.2,Isaiah Neal,252.0,12.7
+GA TECH,PITTSBURGH,vs_ed_rank_3,Malachi Carney,OT,68.9,80.5,Blaine Spires,153.0,-11.6
+GA TECH,PITTSBURGH,vs_ed_rank_4,Malachi Carney,OT,68.9,65.5,Joey Zelinsky,113.0,3.4
+GA TECH,PITTSBURGH,vs_ed_rank_5,Malachi Carney,OT,68.9,63.4,Nate Temple,103.0,5.5
+GA TECH,PITTSBURGH,vs_ed_rank_6,Malachi Carney,OT,68.9,75.0,Zach Crothers,95.0,-6.1
+GA TECH,SYRACUSE,vs_defense_avg,Ethan Mackenny,OT,65.9,65.69,,,0.21
+GA TECH,SYRACUSE,vs_ed_rank_1,Ethan Mackenny,OT,65.9,68.4,David Reese,351.0,-2.5
+GA TECH,SYRACUSE,vs_ed_rank_2,Ethan Mackenny,OT,65.9,57.1,Denis Jaquez Jr.,277.0,8.8
+GA TECH,SYRACUSE,vs_ed_rank_3,Ethan Mackenny,OT,65.9,71.6,David Omopariola,173.0,-5.7
+GA TECH,SYRACUSE,vs_ed_rank_4,Ethan Mackenny,OT,65.9,68.0,Jamie Tremble,129.0,-2.1
+GA TECH,SYRACUSE,vs_ed_rank_5,Ethan Mackenny,OT,65.9,66.8,Chase Simmons,93.0,-0.9
+GA TECH,SYRACUSE,vs_defense_avg,Malachi Carney,OT,68.9,65.69,,,3.21
+GA TECH,SYRACUSE,vs_ed_rank_1,Malachi Carney,OT,68.9,68.4,David Reese,351.0,0.5
+GA TECH,SYRACUSE,vs_ed_rank_2,Malachi Carney,OT,68.9,57.1,Denis Jaquez Jr.,277.0,11.8
+GA TECH,SYRACUSE,vs_ed_rank_3,Malachi Carney,OT,68.9,71.6,David Omopariola,173.0,-2.7
+GA TECH,SYRACUSE,vs_ed_rank_4,Malachi Carney,OT,68.9,68.0,Jamie Tremble,129.0,0.9
+GA TECH,SYRACUSE,vs_ed_rank_5,Malachi Carney,OT,68.9,66.8,Chase Simmons,93.0,2.1
