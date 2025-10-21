@@ -1,0 +1,57 @@
+gt_team,opponent,row_type,player,player_run_grade,player_receiving_grade,opp_lb_run_avg,opp_lb_cov_avg,opp_lb_run_grade,opp_lb_cov_grade,delta_run_minus_lb_run,delta_recv_minus_lb_cov,overall_delta,opp_lb_name,opp_lb_snaps
+GA TECH,BOSTON COL,vs_lb_room_avg,Jamal Haynes,73.1,,57.85,62.77,,,15.25,,15.25,,
+GA TECH,BOSTON COL,vs_lb_rank_1,Jamal Haynes,73.1,,,,56,60.5,17.1,,17.1,Owen McGowan,402
+GA TECH,BOSTON COL,vs_lb_rank_2,Jamal Haynes,73.1,,,,60,76.2,13.1,,13.1,Daveon Crouch,149
+GA TECH,BOSTON COL,vs_lb_rank_3,Jamal Haynes,73.1,,,,61.1,61.4,12,,12,Bryce Steele,118
+GA TECH,BOSTON COL,vs_lb_rank_4,Jamal Haynes,73.1,,,,58.3,51.9,14.8,,14.8,Jason Hewlett Jr.,85
+GA TECH,BOSTON COL,vs_lb_room_avg,Malachi Hosley,82.3,,57.85,62.77,,,24.45,,24.45,,
+GA TECH,BOSTON COL,vs_lb_rank_1,Malachi Hosley,82.3,,,,56,60.5,26.3,,26.3,Owen McGowan,402
+GA TECH,BOSTON COL,vs_lb_rank_2,Malachi Hosley,82.3,,,,60,76.2,22.3,,22.3,Daveon Crouch,149
+GA TECH,BOSTON COL,vs_lb_rank_3,Malachi Hosley,82.3,,,,61.1,61.4,21.2,,21.2,Bryce Steele,118
+GA TECH,BOSTON COL,vs_lb_rank_4,Malachi Hosley,82.3,,,,58.3,51.9,24,,24,Jason Hewlett Jr.,85
+GA TECH,NC STATE,vs_lb_room_avg,Jamal Haynes,73.1,,73.09,55.18,,,0.01,,0.01,,
+GA TECH,NC STATE,vs_lb_rank_1,Jamal Haynes,73.1,,,,78.2,50.8,-5.1,,-5.1,Caden Fordham,396
+GA TECH,NC STATE,vs_lb_rank_2,Jamal Haynes,73.1,,,,63.9,59.4,9.2,,9.2,Sean Brown,298
+GA TECH,NC STATE,vs_lb_rank_3,Jamal Haynes,73.1,,,,80.7,55.4,-7.6,,-7.6,Kenny Soares Jr.,245
+GA TECH,NC STATE,vs_lb_rank_4,Jamal Haynes,73.1,,,,56.4,61.3,16.7,,16.7,AJ Richardson,69
+GA TECH,NC STATE,vs_lb_room_avg,Malachi Hosley,82.3,,73.09,55.18,,,9.21,,9.21,,
+GA TECH,NC STATE,vs_lb_rank_1,Malachi Hosley,82.3,,,,78.2,50.8,4.1,,4.1,Caden Fordham,396
+GA TECH,NC STATE,vs_lb_rank_2,Malachi Hosley,82.3,,,,63.9,59.4,18.4,,18.4,Sean Brown,298
+GA TECH,NC STATE,vs_lb_rank_3,Malachi Hosley,82.3,,,,80.7,55.4,1.6,,1.6,Kenny Soares Jr.,245
+GA TECH,NC STATE,vs_lb_rank_4,Malachi Hosley,82.3,,,,56.4,61.3,25.9,,25.9,AJ Richardson,69
+GA TECH,GEORGIA,vs_lb_room_avg,Jamal Haynes,73.1,,76.4,64.67,,,-3.3,,-3.3,,
+GA TECH,GEORGIA,vs_lb_rank_1,Jamal Haynes,73.1,,,,91.6,59,-18.5,,-18.5,CJ Allen,321
+GA TECH,GEORGIA,vs_lb_rank_2,Jamal Haynes,73.1,,,,65.4,62.6,7.7,,7.7,Raylen Wilson,289
+GA TECH,GEORGIA,vs_lb_rank_3,Jamal Haynes,73.1,,,,64.2,74.7,8.9,,8.9,Chris Cole,206
+GA TECH,GEORGIA,vs_lb_rank_4,Jamal Haynes,73.1,,,,83,67.7,-9.9,,-9.9,Justin Williams,122
+GA TECH,GEORGIA,vs_lb_rank_5,Jamal Haynes,73.1,,,,76.6,64.4,-3.5,,-3.5,Terrell Foster,57
+GA TECH,GEORGIA,vs_lb_room_avg,Malachi Hosley,82.3,,76.4,64.67,,,5.9,,5.9,,
+GA TECH,GEORGIA,vs_lb_rank_1,Malachi Hosley,82.3,,,,91.6,59,-9.3,,-9.3,CJ Allen,321
+GA TECH,GEORGIA,vs_lb_rank_2,Malachi Hosley,82.3,,,,65.4,62.6,16.9,,16.9,Raylen Wilson,289
+GA TECH,GEORGIA,vs_lb_rank_3,Malachi Hosley,82.3,,,,64.2,74.7,18.1,,18.1,Chris Cole,206
+GA TECH,GEORGIA,vs_lb_rank_4,Malachi Hosley,82.3,,,,83,67.7,-0.7,,-0.7,Justin Williams,122
+GA TECH,GEORGIA,vs_lb_rank_5,Malachi Hosley,82.3,,,,76.6,64.4,5.7,,5.7,Terrell Foster,57
+GA TECH,PITTSBURGH,vs_lb_room_avg,Jamal Haynes,73.1,,86.31,66.58,,,-13.21,,-13.21,,
+GA TECH,PITTSBURGH,vs_lb_rank_1,Jamal Haynes,73.1,,,,91.1,57.8,-18,,-18,Braylan Lovelace,455
+GA TECH,PITTSBURGH,vs_lb_rank_2,Jamal Haynes,73.1,,,,77.9,79.2,-4.8,,-4.8,Kyle Louis,395
+GA TECH,PITTSBURGH,vs_lb_rank_3,Jamal Haynes,73.1,,,,90.2,63.6,-17.1,,-17.1,Rasheem Biles,388
+GA TECH,PITTSBURGH,vs_lb_rank_4,Jamal Haynes,73.1,,,,90.5,66.8,-17.4,,-17.4,Cameron Lindsey,106
+GA TECH,PITTSBURGH,vs_lb_rank_5,Jamal Haynes,73.1,,,,77.9,68,-4.8,,-4.8,Nick Lapi,97
+GA TECH,PITTSBURGH,vs_lb_room_avg,Malachi Hosley,82.3,,86.31,66.58,,,-4.01,,-4.01,,
+GA TECH,PITTSBURGH,vs_lb_rank_1,Malachi Hosley,82.3,,,,91.1,57.8,-8.8,,-8.8,Braylan Lovelace,455
+GA TECH,PITTSBURGH,vs_lb_rank_2,Malachi Hosley,82.3,,,,77.9,79.2,4.4,,4.4,Kyle Louis,395
+GA TECH,PITTSBURGH,vs_lb_rank_3,Malachi Hosley,82.3,,,,90.2,63.6,-7.9,,-7.9,Rasheem Biles,388
+GA TECH,PITTSBURGH,vs_lb_rank_4,Malachi Hosley,82.3,,,,90.5,66.8,-8.2,,-8.2,Cameron Lindsey,106
+GA TECH,PITTSBURGH,vs_lb_rank_5,Malachi Hosley,82.3,,,,77.9,68,4.4,,4.4,Nick Lapi,97
+GA TECH,SYRACUSE,vs_lb_room_avg,Jamal Haynes,73.1,,68.39,60.39,,,4.71,,4.71,,
+GA TECH,SYRACUSE,vs_lb_rank_1,Jamal Haynes,73.1,,,,69.4,52.2,3.7,,3.7,Gary Bryant III,328
+GA TECH,SYRACUSE,vs_lb_rank_2,Jamal Haynes,73.1,,,,84.3,70.3,-11.2,,-11.2,Antoine Deslauriers,278
+GA TECH,SYRACUSE,vs_lb_rank_3,Jamal Haynes,73.1,,,,55.3,66.7,17.8,,17.8,Anwar Sparrow,159
+GA TECH,SYRACUSE,vs_lb_rank_4,Jamal Haynes,73.1,,,,51.2,46.8,21.9,,21.9,Derek McDonald,90
+GA TECH,SYRACUSE,vs_lb_rank_5,Jamal Haynes,73.1,,,,51.6,62.7,21.5,,21.5,James Heard,67
+GA TECH,SYRACUSE,vs_lb_room_avg,Malachi Hosley,82.3,,68.39,60.39,,,13.91,,13.91,,
+GA TECH,SYRACUSE,vs_lb_rank_1,Malachi Hosley,82.3,,,,69.4,52.2,12.9,,12.9,Gary Bryant III,328
+GA TECH,SYRACUSE,vs_lb_rank_2,Malachi Hosley,82.3,,,,84.3,70.3,-2,,-2,Antoine Deslauriers,278
+GA TECH,SYRACUSE,vs_lb_rank_3,Malachi Hosley,82.3,,,,55.3,66.7,27,,27,Anwar Sparrow,159
+GA TECH,SYRACUSE,vs_lb_rank_4,Malachi Hosley,82.3,,,,51.2,46.8,31.1,,31.1,Derek McDonald,90
+GA TECH,SYRACUSE,vs_lb_rank_5,Malachi Hosley,82.3,,,,51.6,62.7,30.7,,30.7,James Heard,67
