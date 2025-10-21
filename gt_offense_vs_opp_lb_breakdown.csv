@@ -1,0 +1,46 @@
+gt_team,opponent,type,player,player_run_grade,opp_lb_grade,delta,opponent_player,opponent_player_snaps
+GA TECH,BOSTON COL,vs_defense_avg,Haynes King,73.8,57.85,15.95,,
+GA TECH,BOSTON COL,vs_top_lb,Haynes King,73.8,56.0,17.8,Owen McGowan,402.0
+GA TECH,BOSTON COL,vs_second_lb,Haynes King,73.8,60.0,13.8,Daveon Crouch,149.0
+GA TECH,BOSTON COL,vs_defense_avg,Jamal Haynes,73.1,57.85,15.25,,
+GA TECH,BOSTON COL,vs_top_lb,Jamal Haynes,73.1,56.0,17.1,Owen McGowan,402.0
+GA TECH,BOSTON COL,vs_second_lb,Jamal Haynes,73.1,60.0,13.1,Daveon Crouch,149.0
+GA TECH,BOSTON COL,vs_defense_avg,Malachi Hosley,82.3,57.85,24.45,,
+GA TECH,BOSTON COL,vs_top_lb,Malachi Hosley,82.3,56.0,26.3,Owen McGowan,402.0
+GA TECH,BOSTON COL,vs_second_lb,Malachi Hosley,82.3,60.0,22.3,Daveon Crouch,149.0
+GA TECH,NC STATE,vs_defense_avg,Haynes King,73.8,73.09,0.71,,
+GA TECH,NC STATE,vs_top_lb,Haynes King,73.8,78.2,-4.4,Caden Fordham,396.0
+GA TECH,NC STATE,vs_second_lb,Haynes King,73.8,63.9,9.9,Sean Brown,298.0
+GA TECH,NC STATE,vs_defense_avg,Jamal Haynes,73.1,73.09,0.01,,
+GA TECH,NC STATE,vs_top_lb,Jamal Haynes,73.1,78.2,-5.1,Caden Fordham,396.0
+GA TECH,NC STATE,vs_second_lb,Jamal Haynes,73.1,63.9,9.2,Sean Brown,298.0
+GA TECH,NC STATE,vs_defense_avg,Malachi Hosley,82.3,73.09,9.21,,
+GA TECH,NC STATE,vs_top_lb,Malachi Hosley,82.3,78.2,4.1,Caden Fordham,396.0
+GA TECH,NC STATE,vs_second_lb,Malachi Hosley,82.3,63.9,18.4,Sean Brown,298.0
+GA TECH,GEORGIA,vs_defense_avg,Haynes King,73.8,76.4,-2.6,,
+GA TECH,GEORGIA,vs_top_lb,Haynes King,73.8,91.6,-17.8,CJ Allen,321.0
+GA TECH,GEORGIA,vs_second_lb,Haynes King,73.8,65.4,8.4,Raylen Wilson,289.0
+GA TECH,GEORGIA,vs_defense_avg,Jamal Haynes,73.1,76.4,-3.3,,
+GA TECH,GEORGIA,vs_top_lb,Jamal Haynes,73.1,91.6,-18.5,CJ Allen,321.0
+GA TECH,GEORGIA,vs_second_lb,Jamal Haynes,73.1,65.4,7.7,Raylen Wilson,289.0
+GA TECH,GEORGIA,vs_defense_avg,Malachi Hosley,82.3,76.4,5.9,,
+GA TECH,GEORGIA,vs_top_lb,Malachi Hosley,82.3,91.6,-9.3,CJ Allen,321.0
+GA TECH,GEORGIA,vs_second_lb,Malachi Hosley,82.3,65.4,16.9,Raylen Wilson,289.0
+GA TECH,PITTSBURGH,vs_defense_avg,Haynes King,73.8,86.31,-12.51,,
+GA TECH,PITTSBURGH,vs_top_lb,Haynes King,73.8,91.1,-17.3,Braylan Lovelace,455.0
+GA TECH,PITTSBURGH,vs_second_lb,Haynes King,73.8,77.9,-4.1,Kyle Louis,395.0
+GA TECH,PITTSBURGH,vs_defense_avg,Jamal Haynes,73.1,86.31,-13.21,,
+GA TECH,PITTSBURGH,vs_top_lb,Jamal Haynes,73.1,91.1,-18.0,Braylan Lovelace,455.0
+GA TECH,PITTSBURGH,vs_second_lb,Jamal Haynes,73.1,77.9,-4.8,Kyle Louis,395.0
+GA TECH,PITTSBURGH,vs_defense_avg,Malachi Hosley,82.3,86.31,-4.01,,
+GA TECH,PITTSBURGH,vs_top_lb,Malachi Hosley,82.3,91.1,-8.8,Braylan Lovelace,455.0
+GA TECH,PITTSBURGH,vs_second_lb,Malachi Hosley,82.3,77.9,4.4,Kyle Louis,395.0
+GA TECH,SYRACUSE,vs_defense_avg,Haynes King,73.8,68.39,5.41,,
+GA TECH,SYRACUSE,vs_top_lb,Haynes King,73.8,69.4,4.4,Gary Bryant III,328.0
+GA TECH,SYRACUSE,vs_second_lb,Haynes King,73.8,84.3,-10.5,Antoine Deslauriers,278.0
+GA TECH,SYRACUSE,vs_defense_avg,Jamal Haynes,73.1,68.39,4.71,,
+GA TECH,SYRACUSE,vs_top_lb,Jamal Haynes,73.1,69.4,3.7,Gary Bryant III,328.0
+GA TECH,SYRACUSE,vs_second_lb,Jamal Haynes,73.1,84.3,-11.2,Antoine Deslauriers,278.0
+GA TECH,SYRACUSE,vs_defense_avg,Malachi Hosley,82.3,68.39,13.91,,
+GA TECH,SYRACUSE,vs_top_lb,Malachi Hosley,82.3,69.4,12.9,Gary Bryant III,328.0
+GA TECH,SYRACUSE,vs_second_lb,Malachi Hosley,82.3,84.3,-2.0,Antoine Deslauriers,278.0
