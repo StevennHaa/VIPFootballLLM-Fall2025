@@ -1,0 +1,125 @@
+gt_team,opponent,type,player,player_position,player_pass_grade,opp_ed_run_grade,opp_ed_name,opp_ed_snaps,delta_pass_vs_run
+GA TECH,BOSTON COL,vs_defense_avg,Luke Harpring,TE,70.4,65.56,,,4.84
+GA TECH,BOSTON COL,vs_ed_rank_1,Luke Harpring,TE,70.4,72.7,Quintayvious Hutchins,255.0,-2.3
+GA TECH,BOSTON COL,vs_ed_rank_2,Luke Harpring,TE,70.4,70.5,Edwin Kolenge,244.0,-0.1
+GA TECH,BOSTON COL,vs_ed_rank_3,Luke Harpring,TE,70.4,57.4,Favor Bate,195.0,13.0
+GA TECH,BOSTON COL,vs_ed_rank_4,Luke Harpring,TE,70.4,55.6,E'Lla Boykin,116.0,14.8
+GA TECH,BOSTON COL,vs_ed_rank_5,Luke Harpring,TE,70.4,60.0,Israel Oladipupo,51.0,10.4
+GA TECH,BOSTON COL,vs_defense_avg,Brett Seither,TE,50.4,65.56,,,-15.16
+GA TECH,BOSTON COL,vs_ed_rank_1,Brett Seither,TE,50.4,72.7,Quintayvious Hutchins,255.0,-22.3
+GA TECH,BOSTON COL,vs_ed_rank_2,Brett Seither,TE,50.4,70.5,Edwin Kolenge,244.0,-20.1
+GA TECH,BOSTON COL,vs_ed_rank_3,Brett Seither,TE,50.4,57.4,Favor Bate,195.0,-7.0
+GA TECH,BOSTON COL,vs_ed_rank_4,Brett Seither,TE,50.4,55.6,E'Lla Boykin,116.0,-5.2
+GA TECH,BOSTON COL,vs_ed_rank_5,Brett Seither,TE,50.4,60.0,Israel Oladipupo,51.0,-9.6
+GA TECH,BOSTON COL,vs_defense_avg,Josh Beetham,TE,76.9,65.56,,,11.34
+GA TECH,BOSTON COL,vs_ed_rank_1,Josh Beetham,TE,76.9,72.7,Quintayvious Hutchins,255.0,4.2
+GA TECH,BOSTON COL,vs_ed_rank_2,Josh Beetham,TE,76.9,70.5,Edwin Kolenge,244.0,6.4
+GA TECH,BOSTON COL,vs_ed_rank_3,Josh Beetham,TE,76.9,57.4,Favor Bate,195.0,19.5
+GA TECH,BOSTON COL,vs_ed_rank_4,Josh Beetham,TE,76.9,55.6,E'Lla Boykin,116.0,21.3
+GA TECH,BOSTON COL,vs_ed_rank_5,Josh Beetham,TE,76.9,60.0,Israel Oladipupo,51.0,16.9
+GA TECH,BOSTON COL,vs_defense_avg,J.T. Byrne,TE,54.2,65.56,,,-11.36
+GA TECH,BOSTON COL,vs_ed_rank_1,J.T. Byrne,TE,54.2,72.7,Quintayvious Hutchins,255.0,-18.5
+GA TECH,BOSTON COL,vs_ed_rank_2,J.T. Byrne,TE,54.2,70.5,Edwin Kolenge,244.0,-16.3
+GA TECH,BOSTON COL,vs_ed_rank_3,J.T. Byrne,TE,54.2,57.4,Favor Bate,195.0,-3.2
+GA TECH,BOSTON COL,vs_ed_rank_4,J.T. Byrne,TE,54.2,55.6,E'Lla Boykin,116.0,-1.4
+GA TECH,BOSTON COL,vs_ed_rank_5,J.T. Byrne,TE,54.2,60.0,Israel Oladipupo,51.0,-5.8
+GA TECH,NC STATE,vs_defense_avg,Luke Harpring,TE,70.4,73.94,,,-3.54
+GA TECH,NC STATE,vs_ed_rank_1,Luke Harpring,TE,70.4,76.5,Sabastian Harsh,348.0,-6.1
+GA TECH,NC STATE,vs_ed_rank_2,Luke Harpring,TE,70.4,77.8,Cian Slone,324.0,-7.4
+GA TECH,NC STATE,vs_ed_rank_3,Luke Harpring,TE,70.4,62.0,Tra Thomas,177.0,8.4
+GA TECH,NC STATE,vs_ed_rank_4,Luke Harpring,TE,70.4,73.7,Chase Bond,105.0,-3.3
+GA TECH,NC STATE,vs_defense_avg,Brett Seither,TE,50.4,73.94,,,-23.54
+GA TECH,NC STATE,vs_ed_rank_1,Brett Seither,TE,50.4,76.5,Sabastian Harsh,348.0,-26.1
+GA TECH,NC STATE,vs_ed_rank_2,Brett Seither,TE,50.4,77.8,Cian Slone,324.0,-27.4
+GA TECH,NC STATE,vs_ed_rank_3,Brett Seither,TE,50.4,62.0,Tra Thomas,177.0,-11.6
+GA TECH,NC STATE,vs_ed_rank_4,Brett Seither,TE,50.4,73.7,Chase Bond,105.0,-23.3
+GA TECH,NC STATE,vs_defense_avg,Josh Beetham,TE,76.9,73.94,,,2.96
+GA TECH,NC STATE,vs_ed_rank_1,Josh Beetham,TE,76.9,76.5,Sabastian Harsh,348.0,0.4
+GA TECH,NC STATE,vs_ed_rank_2,Josh Beetham,TE,76.9,77.8,Cian Slone,324.0,-0.9
+GA TECH,NC STATE,vs_ed_rank_3,Josh Beetham,TE,76.9,62.0,Tra Thomas,177.0,14.9
+GA TECH,NC STATE,vs_ed_rank_4,Josh Beetham,TE,76.9,73.7,Chase Bond,105.0,3.2
+GA TECH,NC STATE,vs_defense_avg,J.T. Byrne,TE,54.2,73.94,,,-19.74
+GA TECH,NC STATE,vs_ed_rank_1,J.T. Byrne,TE,54.2,76.5,Sabastian Harsh,348.0,-22.3
+GA TECH,NC STATE,vs_ed_rank_2,J.T. Byrne,TE,54.2,77.8,Cian Slone,324.0,-23.6
+GA TECH,NC STATE,vs_ed_rank_3,J.T. Byrne,TE,54.2,62.0,Tra Thomas,177.0,-7.8
+GA TECH,NC STATE,vs_ed_rank_4,J.T. Byrne,TE,54.2,73.7,Chase Bond,105.0,-19.5
+GA TECH,GEORGIA,vs_defense_avg,Luke Harpring,TE,70.4,67.84,,,2.56
+GA TECH,GEORGIA,vs_ed_rank_1,Luke Harpring,TE,70.4,65.2,Gabe Harris Jr.,258.0,5.2
+GA TECH,GEORGIA,vs_ed_rank_2,Luke Harpring,TE,70.4,76.0,Quintavius Johnson,255.0,-5.6
+GA TECH,GEORGIA,vs_ed_rank_3,Luke Harpring,TE,70.4,72.4,Joseph Jonah-Ajonye,161.0,-2.0
+GA TECH,GEORGIA,vs_ed_rank_4,Luke Harpring,TE,70.4,45.1,Kris Jones,78.0,25.3
+GA TECH,GEORGIA,vs_ed_rank_5,Luke Harpring,TE,70.4,71.3,Elo Modozie,73.0,-0.9
+GA TECH,GEORGIA,vs_ed_rank_6,Luke Harpring,TE,70.4,58.6,JJ Hanne,66.0,11.8
+GA TECH,GEORGIA,vs_defense_avg,Brett Seither,TE,50.4,67.84,,,-17.44
+GA TECH,GEORGIA,vs_ed_rank_1,Brett Seither,TE,50.4,65.2,Gabe Harris Jr.,258.0,-14.8
+GA TECH,GEORGIA,vs_ed_rank_2,Brett Seither,TE,50.4,76.0,Quintavius Johnson,255.0,-25.6
+GA TECH,GEORGIA,vs_ed_rank_3,Brett Seither,TE,50.4,72.4,Joseph Jonah-Ajonye,161.0,-22.0
+GA TECH,GEORGIA,vs_ed_rank_4,Brett Seither,TE,50.4,45.1,Kris Jones,78.0,5.3
+GA TECH,GEORGIA,vs_ed_rank_5,Brett Seither,TE,50.4,71.3,Elo Modozie,73.0,-20.9
+GA TECH,GEORGIA,vs_ed_rank_6,Brett Seither,TE,50.4,58.6,JJ Hanne,66.0,-8.2
+GA TECH,GEORGIA,vs_defense_avg,Josh Beetham,TE,76.9,67.84,,,9.06
+GA TECH,GEORGIA,vs_ed_rank_1,Josh Beetham,TE,76.9,65.2,Gabe Harris Jr.,258.0,11.7
+GA TECH,GEORGIA,vs_ed_rank_2,Josh Beetham,TE,76.9,76.0,Quintavius Johnson,255.0,0.9
+GA TECH,GEORGIA,vs_ed_rank_3,Josh Beetham,TE,76.9,72.4,Joseph Jonah-Ajonye,161.0,4.5
+GA TECH,GEORGIA,vs_ed_rank_4,Josh Beetham,TE,76.9,45.1,Kris Jones,78.0,31.8
+GA TECH,GEORGIA,vs_ed_rank_5,Josh Beetham,TE,76.9,71.3,Elo Modozie,73.0,5.6
+GA TECH,GEORGIA,vs_ed_rank_6,Josh Beetham,TE,76.9,58.6,JJ Hanne,66.0,18.3
+GA TECH,GEORGIA,vs_defense_avg,J.T. Byrne,TE,54.2,67.84,,,-13.64
+GA TECH,GEORGIA,vs_ed_rank_1,J.T. Byrne,TE,54.2,65.2,Gabe Harris Jr.,258.0,-11.0
+GA TECH,GEORGIA,vs_ed_rank_2,J.T. Byrne,TE,54.2,76.0,Quintavius Johnson,255.0,-21.8
+GA TECH,GEORGIA,vs_ed_rank_3,J.T. Byrne,TE,54.2,72.4,Joseph Jonah-Ajonye,161.0,-18.2
+GA TECH,GEORGIA,vs_ed_rank_4,J.T. Byrne,TE,54.2,45.1,Kris Jones,78.0,9.1
+GA TECH,GEORGIA,vs_ed_rank_5,J.T. Byrne,TE,54.2,71.3,Elo Modozie,73.0,-17.1
+GA TECH,GEORGIA,vs_ed_rank_6,J.T. Byrne,TE,54.2,58.6,JJ Hanne,66.0,-4.4
+GA TECH,PITTSBURGH,vs_defense_avg,Luke Harpring,TE,70.4,67.19,,,3.21
+GA TECH,PITTSBURGH,vs_ed_rank_1,Luke Harpring,TE,70.4,68.8,Jimmy Scott,355.0,1.6
+GA TECH,PITTSBURGH,vs_ed_rank_2,Luke Harpring,TE,70.4,56.2,Isaiah Neal,252.0,14.2
+GA TECH,PITTSBURGH,vs_ed_rank_3,Luke Harpring,TE,70.4,80.5,Blaine Spires,153.0,-10.1
+GA TECH,PITTSBURGH,vs_ed_rank_4,Luke Harpring,TE,70.4,65.5,Joey Zelinsky,113.0,4.9
+GA TECH,PITTSBURGH,vs_ed_rank_5,Luke Harpring,TE,70.4,63.4,Nate Temple,103.0,7.0
+GA TECH,PITTSBURGH,vs_ed_rank_6,Luke Harpring,TE,70.4,75.0,Zach Crothers,95.0,-4.6
+GA TECH,PITTSBURGH,vs_defense_avg,Brett Seither,TE,50.4,67.19,,,-16.79
+GA TECH,PITTSBURGH,vs_ed_rank_1,Brett Seither,TE,50.4,68.8,Jimmy Scott,355.0,-18.4
+GA TECH,PITTSBURGH,vs_ed_rank_2,Brett Seither,TE,50.4,56.2,Isaiah Neal,252.0,-5.8
+GA TECH,PITTSBURGH,vs_ed_rank_3,Brett Seither,TE,50.4,80.5,Blaine Spires,153.0,-30.1
+GA TECH,PITTSBURGH,vs_ed_rank_4,Brett Seither,TE,50.4,65.5,Joey Zelinsky,113.0,-15.1
+GA TECH,PITTSBURGH,vs_ed_rank_5,Brett Seither,TE,50.4,63.4,Nate Temple,103.0,-13.0
+GA TECH,PITTSBURGH,vs_ed_rank_6,Brett Seither,TE,50.4,75.0,Zach Crothers,95.0,-24.6
+GA TECH,PITTSBURGH,vs_defense_avg,Josh Beetham,TE,76.9,67.19,,,9.71
+GA TECH,PITTSBURGH,vs_ed_rank_1,Josh Beetham,TE,76.9,68.8,Jimmy Scott,355.0,8.1
+GA TECH,PITTSBURGH,vs_ed_rank_2,Josh Beetham,TE,76.9,56.2,Isaiah Neal,252.0,20.7
+GA TECH,PITTSBURGH,vs_ed_rank_3,Josh Beetham,TE,76.9,80.5,Blaine Spires,153.0,-3.6
+GA TECH,PITTSBURGH,vs_ed_rank_4,Josh Beetham,TE,76.9,65.5,Joey Zelinsky,113.0,11.4
+GA TECH,PITTSBURGH,vs_ed_rank_5,Josh Beetham,TE,76.9,63.4,Nate Temple,103.0,13.5
+GA TECH,PITTSBURGH,vs_ed_rank_6,Josh Beetham,TE,76.9,75.0,Zach Crothers,95.0,1.9
+GA TECH,PITTSBURGH,vs_defense_avg,J.T. Byrne,TE,54.2,67.19,,,-12.99
+GA TECH,PITTSBURGH,vs_ed_rank_1,J.T. Byrne,TE,54.2,68.8,Jimmy Scott,355.0,-14.6
+GA TECH,PITTSBURGH,vs_ed_rank_2,J.T. Byrne,TE,54.2,56.2,Isaiah Neal,252.0,-2.0
+GA TECH,PITTSBURGH,vs_ed_rank_3,J.T. Byrne,TE,54.2,80.5,Blaine Spires,153.0,-26.3
+GA TECH,PITTSBURGH,vs_ed_rank_4,J.T. Byrne,TE,54.2,65.5,Joey Zelinsky,113.0,-11.3
+GA TECH,PITTSBURGH,vs_ed_rank_5,J.T. Byrne,TE,54.2,63.4,Nate Temple,103.0,-9.2
+GA TECH,PITTSBURGH,vs_ed_rank_6,J.T. Byrne,TE,54.2,75.0,Zach Crothers,95.0,-20.8
+GA TECH,SYRACUSE,vs_defense_avg,Luke Harpring,TE,70.4,65.69,,,4.71
+GA TECH,SYRACUSE,vs_ed_rank_1,Luke Harpring,TE,70.4,68.4,David Reese,351.0,2.0
+GA TECH,SYRACUSE,vs_ed_rank_2,Luke Harpring,TE,70.4,57.1,Denis Jaquez Jr.,277.0,13.3
+GA TECH,SYRACUSE,vs_ed_rank_3,Luke Harpring,TE,70.4,71.6,David Omopariola,173.0,-1.2
+GA TECH,SYRACUSE,vs_ed_rank_4,Luke Harpring,TE,70.4,68.0,Jamie Tremble,129.0,2.4
+GA TECH,SYRACUSE,vs_ed_rank_5,Luke Harpring,TE,70.4,66.8,Chase Simmons,93.0,3.6
+GA TECH,SYRACUSE,vs_defense_avg,Brett Seither,TE,50.4,65.69,,,-15.29
+GA TECH,SYRACUSE,vs_ed_rank_1,Brett Seither,TE,50.4,68.4,David Reese,351.0,-18.0
+GA TECH,SYRACUSE,vs_ed_rank_2,Brett Seither,TE,50.4,57.1,Denis Jaquez Jr.,277.0,-6.7
+GA TECH,SYRACUSE,vs_ed_rank_3,Brett Seither,TE,50.4,71.6,David Omopariola,173.0,-21.2
+GA TECH,SYRACUSE,vs_ed_rank_4,Brett Seither,TE,50.4,68.0,Jamie Tremble,129.0,-17.6
+GA TECH,SYRACUSE,vs_ed_rank_5,Brett Seither,TE,50.4,66.8,Chase Simmons,93.0,-16.4
+GA TECH,SYRACUSE,vs_defense_avg,Josh Beetham,TE,76.9,65.69,,,11.21
+GA TECH,SYRACUSE,vs_ed_rank_1,Josh Beetham,TE,76.9,68.4,David Reese,351.0,8.5
+GA TECH,SYRACUSE,vs_ed_rank_2,Josh Beetham,TE,76.9,57.1,Denis Jaquez Jr.,277.0,19.8
+GA TECH,SYRACUSE,vs_ed_rank_3,Josh Beetham,TE,76.9,71.6,David Omopariola,173.0,5.3
+GA TECH,SYRACUSE,vs_ed_rank_4,Josh Beetham,TE,76.9,68.0,Jamie Tremble,129.0,8.9
+GA TECH,SYRACUSE,vs_ed_rank_5,Josh Beetham,TE,76.9,66.8,Chase Simmons,93.0,10.1
+GA TECH,SYRACUSE,vs_defense_avg,J.T. Byrne,TE,54.2,65.69,,,-11.49
+GA TECH,SYRACUSE,vs_ed_rank_1,J.T. Byrne,TE,54.2,68.4,David Reese,351.0,-14.2
+GA TECH,SYRACUSE,vs_ed_rank_2,J.T. Byrne,TE,54.2,57.1,Denis Jaquez Jr.,277.0,-2.9
+GA TECH,SYRACUSE,vs_ed_rank_3,J.T. Byrne,TE,54.2,71.6,David Omopariola,173.0,-17.4
+GA TECH,SYRACUSE,vs_ed_rank_4,J.T. Byrne,TE,54.2,68.0,Jamie Tremble,129.0,-13.8
+GA TECH,SYRACUSE,vs_ed_rank_5,J.T. Byrne,TE,54.2,66.8,Chase Simmons,93.0,-12.6
